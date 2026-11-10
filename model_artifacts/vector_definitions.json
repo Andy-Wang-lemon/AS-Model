@@ -1,0 +1,346 @@
+{
+  "作意": {
+    "english_term": "Attention",
+    "buddhist_explanation": "Directing the mind toward a target, like pointing a flashlight at an object, represents the initiation and orientation of attention.",
+    "psychological_interpretation": "Attention corresponds to the orienting and alertness networks, determining what to focus on in the moment and altering the depth of processing. It influences stimulus selection, goal maintenance, and interference inhibition; when insufficient it leads to distraction, and when excessive it overlooks environmental changes and impairs flexible shifting.",
+    "keywords": "Orienting, alerting, selective attention, goal maintenance, and inhibitory control.",
+    "example": "In a noisy café, when someone calls your name and you immediately turn your head while filtering out other sounds, this illustrates the orienting function of Attention.",
+    "source": "definition_workbook"
+  },
+  "触": {
+    "english_term": "Contact",
+    "buddhist_explanation": "The encounter between subject and object is the starting point of all mental activity.",
+    "psychological_interpretation": "Contact corresponds to the activation of sensory channels and the occupation of receptive fields, serving as the bottom-up gateway of input. It determines whether information proceeds to perception and evaluation, involving both external and internal sensations; distortion can give rise to illusions or hypersensitivity.",
+    "keywords": "Sensory input, exteroception and interoception, sensory gating, thresholds, and illusions.",
+    "example": "When your finger instantly withdraws from a hot cup, or when you notice your heartbeat accelerate after exercise, it is Contact activating subsequent reactions.",
+    "source": "definition_workbook"
+  },
+  "受": {
+    "english_term": "Feeling",
+    "buddhist_explanation": "Experiencing suffering, pleasure, or neutrality toward an object is the initial coloration of emotion.",
+    "psychological_interpretation": "Feeling corresponds to the valence and arousal dimensions of core affect, quickly assigning an experiential label of good, bad, or neutral. It drives approach or avoidance, influences memory consolidation and preference formation, and together with evaluation shapes emotion.",
+    "keywords": "Valence and arousal level within core affect, defining the approach–avoidance dimensions.",
+    "example": "Feeling pleasure when tasting a dessert and wanting more, or frowning and withdrawing at a bad smell, demonstrates Feeling guiding behavioral tendencies.",
+    "source": "definition_workbook"
+  },
+  "想": {
+    "english_term": "Thinking",
+    "buddhist_explanation": "Identifying an object by assigning it a name or image label aids recognition and memory.",
+    "psychological_interpretation": "Thinking corresponds to the categorization of experience and the generation of representations, matching sensory input with existing schemas to form usable mental images. It influences encoding strategies, naming speed, and recognition accuracy; imbalance may lead to rigidity or misidentification.",
+    "keywords": "Perceptual categorization, representation and imagery, schema, conceptualization, and classification.",
+    "example": "Seeing an animal from afar and instantly recognizing it as a “dog,” along with recalling its image and bark, exemplifies Thinking.",
+    "source": "definition_workbook"
+  },
+  "思": {
+    "english_term": "Deliberation",
+    "buddhist_explanation": "The engine that drives the mind and body to act is the psychological force of whether and how to act.",
+    "psychological_interpretation": "Deliberation corresponds to volition and action choice, integrating goals, rules, and consequences to activate executive functions and implement plans. It participates in habit formation and inhibition of improper impulses; when lacking it leads to procrastination, while excess results in rigidity and stubbornness.",
+    "keywords": "Volition and executive functions, goal-directed behavior, action choice, and inhibitory control.",
+    "example": "When a deadline approaches and you put down your phone to start writing, the force that drives “do it now” is Deliberation.",
+    "source": "definition_workbook"
+  },
+  "信": {
+    "english_term": "Faith",
+    "buddhist_explanation": "Trust in truth and virtue directs the mind toward purity and benefit.",
+    "psychological_interpretation": "Faith is a stable positive expectation and attribution of trustworthiness, enhancing self-efficacy and the basic assumption of goodwill in others. It reduces defensiveness and cynicism, fosters cooperation and resilience, but blind faith should be replaced with evidence-based trust.",
+    "keywords": "Trust, positive expectancy, self-efficacy, attachment security, and resilience.",
+    "example": "In a therapeutic alliance, the client’s sense of trust in the counseling relationship supports persistence and change, representing Faith.",
+    "source": "definition_workbook"
+  },
+  "精进": {
+    "english_term": "Vigor",
+    "buddhist_explanation": "Applying oneself diligently to goodness sustains continuous improvement in conduct.",
+    "psychological_interpretation": "Vigor manifests as high effort thresholds and long-term persistence, enabling sustained goal-directed behavior under fatigue and temptation. It combines self-monitoring, habit stacking, and reward design, preventing procrastination while also avoiding burnout from overexertion.",
+    "keywords": "Grit, self-regulation, delayed gratification, habit formation, and self-monitoring.",
+    "example": "Waking early every day to study and exercise, maintaining the routine for months, exemplifies Vigor.",
+    "source": "definition_workbook"
+  },
+  "惭": {
+    "english_term": "Inner shame",
+    "buddhist_explanation": "Feeling shame based on internal moral standards leads to self-restraint from within.",
+    "psychological_interpretation": "Inner shame is the sensitivity of the self-evaluative system to deviation from values, triggering internal correction and compensatory action. It is close to guilt but more centered on self-character, moderately promoting growth, while excess becomes self-denigration and avoidance.",
+    "keywords": "Moral emotions such as guilt, self-reflection, value alignment, and self-correction.",
+    "example": "After lying, taking the initiative to admit and apologize reflects an inner standard of value—this is Inner shame.",
+    "source": "definition_workbook"
+  },
+  "愧": {
+    "english_term": "Shame",
+    "buddhist_explanation": "Feeling embarrassment in regard to others and social norms leads to self-restraint outwardly.",
+    "psychological_interpretation": "Shame is sensitivity to social evaluation and relational consequences, inhibiting boundary-crossing behavior and maintaining reputation and networks of trust. It is linked to dignity and self-respect; when driven solely by reputation at the expense of authenticity, it develops into image-management anxiety.",
+    "keywords": "Social evaluation, shame, reputation management, norm internalization, and relationship maintenance.",
+    "example": "Refraining from inappropriate action out of concern for how one’s parents or colleagues might view it demonstrates the external regulatory function of Shame.",
+    "source": "definition_workbook"
+  },
+  "无贪": {
+    "english_term": "Absence of craving",
+    "buddhist_explanation": "Free from possessive desire, the mind turns toward contentment and sharing.",
+    "psychological_interpretation": "Absence of craving embodies sufficiency and freedom from clinging, weakening the dominance of immediate gratification and freeing attention for higher-value goals. It lowers materialism and addiction risk, increases happiness and generosity, and is not passive but an act of free choice.",
+    "keywords": "Non-attachment, impulse control, reduction of materialism, enhancement of happiness, and generosity.",
+    "example": "Resisting a discount promotion and spending money and energy according to prior plans exemplifies Absence of craving.",
+    "source": "definition_workbook"
+  },
+  "无嗔": {
+    "english_term": "Absence of hatred",
+    "buddhist_explanation": "In adversity, remaining gentle and kind without anger.",
+    "psychological_interpretation": "Absence of hatred is the product of mature emotion regulation combined with empathy, able to dissolve hostility through reappraisal and compassion. It reduces cycles of retaliation, improves health and relationship quality, and is not weakness but a more effective response.",
+    "keywords": "Compassion, forgiveness, inhibition of hostility, and de-escalation of conflict.",
+    "example": "When criticized, taking a deep breath and empathizing instead of retaliating shows the strength of Absence of hatred.",
+    "source": "definition_workbook"
+  },
+  "无痴": {
+    "english_term": "Absence of ignorance",
+    "buddhist_explanation": "Seeing things as they truly are, unclouded by ignorance.",
+    "psychological_interpretation": "Absence of ignorance embodies truth-seeking, evidence-based reasoning, and cognitive humility, capable of detecting bias, correcting misinformation, and tolerating uncertainty. It drives continuous learning and model updating, avoiding dogmatism and gullibility, serving as the foundation of wisdom and a growth mindset.",
+    "keywords": "Open-mindedness, evidential reasoning, bias recognition, cognitive humility, and growth mindset.",
+    "example": "Facing exaggerated therapeutic claims and checking systematic reviews before deciding whether to try demonstrates the clarity of Absence of ignorance.",
+    "source": "definition_workbook"
+  },
+  "轻安": {
+    "english_term": "Light ease",
+    "buddhist_explanation": "A body and mind that are soft and light, free from heaviness and obstruction.",
+    "psychological_interpretation": "Light ease is a relaxed state of low tension and sustainable focus, accompanied by smooth breathing and muscle release. It differs from laziness, instead enhancing recovery and learning efficiency, and serves as the foundation for high-quality focus and creativity.",
+    "keywords": "Relaxation response, parasympathetic activation, recovery, psychophysical ease, and readiness for focus.",
+    "example": "After brief meditation and stretching, feeling light in the body and stable in attention reflects Light ease.",
+    "source": "definition_workbook"
+  },
+  "不放逸": {
+    "english_term": "Non-laxness",
+    "buddhist_explanation": "Not indulging in sensual pleasure, maintaining vigilance and self-guardianship.",
+    "psychological_interpretation": "Non-laxness is the combination of self-monitoring and boundary awareness, enabling timely restraint when triggers arise. It strengthens delayed gratification and risk anticipation, helps maintain healthy habits and long-term goals, and counters the cycle of indulgence followed by regret.",
+    "keywords": "Self-monitoring, risk anticipation, boundary management, delayed gratification, and self-discipline.",
+    "example": "At midnight, when tempted to keep scrolling through short videos but instead setting an alarm and turning off the phone to sleep, exemplifies Non-laxness.",
+    "source": "definition_workbook"
+  },
+  "行舍": {
+    "english_term": "Renunciation",
+    "buddhist_explanation": "A mind that is balanced and upright, impartial and composed in discernment.",
+    "psychological_interpretation": "Renunciation is a stable balance of emotion and fairness of cognition, maintaining a middle way amid strong opinions and conflicting interests. It reduces black-and-white judgments, enhances negotiation and mediation skills, and makes decisions more enduring and feasible.",
+    "keywords": "Emotional balance, equity, cognitive fairness, de-extremization, and conflict mediation.",
+    "example": "While chairing a meeting, balancing diverse perspectives without being swayed by personal preferences demonstrates the stability of Renunciation.",
+    "source": "definition_workbook"
+  },
+  "不害": {
+    "english_term": "Non-harming",
+    "buddhist_explanation": "Acting without intent to harm, treating others with compassion and care.",
+    "psychological_interpretation": "Non-harming embodies compassion and moral imagination, the ability to foresee others’ suffering and proactively avoid causing harm. It expands altruism and cooperation, reduces the tendency to instrumentalize others, and is key to sustainable relationships and social trust.",
+    "keywords": "Empathy, altruism, nonviolence, and ethics of care.",
+    "example": "Before speaking, considering others’ feelings and avoiding harsh remarks, or protecting the vulnerable during conflict, illustrates Non-harming.",
+    "source": "definition_workbook"
+  },
+  "贪": {
+    "english_term": "Greed",
+    "buddhist_explanation": "Attachment and craving toward objects grow insatiably as one gains more.",
+    "psychological_interpretation": "Greed is excessive sensitivity to rewards and possessiveness, reinforcing immediate gratification while weakening long-term value. It binds to reinforcement loops, easily developing into addiction and compulsive consumption; remedies lie in clarifying values, exposing delay, and practicing non-attachment.",
+    "keywords": "Craving, reward sensitivity, addictive cycles, compulsive consumption, and non-attachment.",
+    "example": "Continuously placing online orders late at night and feeling empty and regretful afterward shows the cycle driven by Greed.",
+    "source": "definition_workbook"
+  },
+  "嗔": {
+    "english_term": "Anger",
+    "buddhist_explanation": "Reacting to adversity with impatience, anger, and hostility, seeking to reject or harm what displeases.",
+    "psychological_interpretation": "Anger is aggressive mobilization after threat appraisal, heightening vigilance and oppositional intent but impairing judgment and health. Frequent outbursts damage relationships and entrench hostile scripts; de-escalation and reappraisal training are helpful in resolution.",
+    "keywords": "Anger, hostility, threat appraisal, de-escalation, and aggressiveness.",
+    "example": "Honking and wanting to retaliate after being cut off in traffic is an expression of Anger.",
+    "source": "definition_workbook"
+  },
+  "慢": {
+    "english_term": "Arrogance",
+    "buddhist_explanation": "Exalting oneself above others and belittling them disrupts inner balance.",
+    "psychological_interpretation": "Arrogance is self-centered comparison and superiority scripting, boosting self-esteem in the short term but harming learning and relationships in the long term. It is often accompanied by selective attention to self-serving evidence, requiring humility and feedback-seeking for correction.",
+    "keywords": "Arrogance involves social comparison and narcissistic tendencies, moderated through feedback-seeking and the cultivation of a growth mindset.",
+    "example": "Showing off achievements, dismissing colleagues’ advice, and refusing to acknowledge one’s shortcomings typify Arrogance.",
+    "source": "definition_workbook"
+  },
+  "无明": {
+    "english_term": "Foolishness",
+    "buddhist_explanation": "Ignorance of truth and causality leads to inverted judgment.",
+    "psychological_interpretation": "Foolishness is not mere ignorance but systematic misunderstanding, favoring intuition over evidence and resisting updating. It nourishes conspiracy thinking and prejudice, undermines error correction, and can be partly countered by evidence literacy and an open mindset.",
+    "keywords": "Cognitive bias includes overconfidence and the Dunning–Kruger effect, which can be corrected through evidence literacy and openness.",
+    "example": "Forming firm conclusions based solely on social media posts without checking original data exemplifies Foolishness.",
+    "source": "definition_workbook"
+  },
+  "疑": {
+    "english_term": "Doubt",
+    "buddhist_explanation": "Hesitation and indecision regarding truth make the mind unstable.",
+    "psychological_interpretation": "Doubt, in moderation, prompts inquiry, but in excess becomes the breeding ground of indecision and procrastination. It is linked to intolerance of uncertainty, leading to decision avoidance and ruminative regret; setting stop-loss points and satisficing standards helps to alleviate it.",
+    "keywords": "Intolerance of uncertainty leads to decision paralysis, while satisficing and stop-loss strategies, along with inquiry motivation, reduce rumination.",
+    "example": "Comparing products repeatedly while shopping online but hesitating to place an order, then regretting after missing a discount, exemplifies the loop of Doubt.",
+    "source": "definition_workbook"
+  },
+  "恶见": {
+    "english_term": "Improper views",
+    "buddhist_explanation": "Holding to biased or mistaken views results in distorted discernment.",
+    "psychological_interpretation": "Improper views manifest as systematic cognitive distortions such as black-and-white thinking, overgeneralization, and conspiratorial interpretations. They lower evidentiary thresholds and reject correction; remediation requires practicing counter-evidence search and probabilistic thinking.",
+    "keywords": "Cognitive distortions such as confirmation bias and conspiratorial thinking require probabilistic reasoning and counter-evidence training.",
+    "example": "Equating a single failure with “I’m worthless,” or attributing a complex event to a single hidden cause, both illustrate Improper views.",
+    "source": "definition_workbook"
+  },
+  "忿": {
+    "english_term": "Wrath",
+    "buddhist_explanation": "Sudden outburst of anger rises like flames.",
+    "psychological_interpretation": "Wrath is a high-arousal, impulsive anger with a very short reaction window, where instinct overrides decision-making. It is often followed by shame and relational damage; training the stimulus-response gap and slowing the breath can restore control.",
+    "keywords": "Failure of impulse control under high arousal results in emotional outbursts; de-escalation and self-soothing techniques restore regulation.",
+    "example": "Slamming the door or throwing objects in a quarrel and regretting it afterward exemplifies Wrath.",
+    "source": "definition_workbook"
+  },
+  "恨": {
+    "english_term": "Hatred",
+    "buddhist_explanation": "Long-held resentment is difficult to release.",
+    "psychological_interpretation": "Hatred is low-intensity but long-lasting hostility, sustained by rumination. It corrodes happiness and health, distorts memory and attribution, and can be loosened gradually through forgiveness training and meaning reconstruction.",
+    "keywords": "Resentment arises from ruminative hostility and biased memory; forgiveness training and meaning therapy facilitate release.",
+    "example": "Holding grudges for years, feeling chest tightness and sleeplessness whenever recalling the person, typifies Hatred.",
+    "source": "definition_workbook"
+  },
+  "恼": {
+    "english_term": "Rage",
+    "buddhist_explanation": "From anger arises intent to harm.",
+    "psychological_interpretation": "Rage is the transformation of anger into an intention for retaliation, beginning to plan harmful scenarios and means. It increases readiness for aggression and diminishes empathy; legal and ethical frameworks, emotional regulation, and supportive disclosure can help resolve it.",
+    "keywords": "Revenge motivation activates readiness for aggression and reduces empathy; ethical restraint and safe expression mitigate harm.",
+    "example": "Planning ways to embarrass a colleague after being offended reflects the impulse of Rage.",
+    "source": "definition_workbook"
+  },
+  "覆": {
+    "english_term": "Covering",
+    "buddhist_explanation": "Concealing faults and refusing to admit mistakes.",
+    "psychological_interpretation": "Covering often appears as justification, denial, or selective memory, preserving face and self-esteem in the short term but blocking learning and repair in the long term. Enhancing self-compassion and adopting a growth framework can reduce defensiveness and promote acknowledgment and improvement.",
+    "keywords": "Defensive reactions such as denial and rationalization protect the ego short-term but hinder growth; self-compassion and a developmental orientation support integration.",
+    "example": "Blaming external circumstances for one’s mistakes instead of reflecting on them is a common pattern of Covering.",
+    "source": "definition_workbook"
+  },
+  "诳": {
+    "english_term": "Deceit",
+    "buddhist_explanation": "Deceiving for profit, acting and speaking dishonestly.",
+    "psychological_interpretation": "Deceit is the tendency to manipulate or use false statements for short-term gain, damaging trust capital and provoking retaliation. It is associated with Machiavellianism; long-term optimal outcomes arise from transparency and honest cooperation.",
+    "keywords": "Deceit involves manipulation and Machiavellian tendencies, eroding trust and increasing reputational risk.",
+    "example": "Exaggerating performance to deceive clients, only to be exposed and lose them, demonstrates Deceit.",
+    "source": "definition_workbook"
+  },
+  "谄": {
+    "english_term": "Flattery",
+    "buddhist_explanation": "Flattering others to gain favor or advantage.",
+    "psychological_interpretation": "Flattery is an over-accommodating self-presentation strategy that trades authenticity for short-term approval. It undermines boundaries and self-esteem stability, fostering relational manipulation; building self-worth and moderate assertiveness can improve it.",
+    "keywords": "Ingratiation is a self-presentational pattern of excessive compliance, weakening boundaries; assertiveness training restores authenticity.",
+    "example": "Agreeing blindly with a superior despite knowing a plan is flawed, just to please, exemplifies Flattery.",
+    "source": "definition_workbook"
+  },
+  "憍": {
+    "english_term": "Conceit",
+    "buddhist_explanation": "Arrogance born of superiority, looking down on others with pride.",
+    "psychological_interpretation": "Conceit is the complacent mindset triggered by resources or advantages, reducing motivation to learn and awareness of risk. Success especially requires vigilance against the “winner’s curse,” maintaining humility through feedback, rotation, and adversity training.",
+    "keywords": "Complacency stems from unexamined privilege and the “winner’s curse,” requiring humility to sustain learning.",
+    "example": "Winning a major award and then neglecting basic training signals Conceit.",
+    "source": "definition_workbook"
+  },
+  "害": {
+    "english_term": "Harming",
+    "buddhist_explanation": "Deliberately causing harm and wishing others to suffer.",
+    "psychological_interpretation": "Harming is the indifference and instrumentalization of others’ suffering, often accompanied by moral disengagement and dehumanization. It erodes social trust and backfires on personal safety; cultivating empathy and responsibility is key intervention.",
+    "keywords": "Malice reflects moral disengagement and dehumanization, promoting aggression; cultivating empathy restores ethical awareness.",
+    "example": "Spreading others’ private information merely for amusement expresses Harming.",
+    "source": "definition_workbook"
+  },
+  "嫉": {
+    "english_term": "Jealousy",
+    "buddhist_explanation": "Feeling uneasy at others’ excellence and desiring their downfall.",
+    "psychological_interpretation": "Jealousy arises from social comparison and scarcity mindset, slipping easily into schadenfreude or covert undermining. Transforming others’ achievements into models and cooperative resources can convert threat into motivation for growth.",
+    "keywords": "Envy arises from social comparison and scarcity mindset; transforming it through modeling and cooperation fosters motivation for growth.",
+    "example": "Treating a promoted colleague harshly and wishing for their failure reveals Jealousy.",
+    "source": "definition_workbook"
+  },
+  "悭": {
+    "english_term": "Stinginess",
+    "buddhist_explanation": "Being stingy with possessions and time, unwilling to share.",
+    "psychological_interpretation": "Stinginess reflects excessive sensitivity to loss and possessive bias, preserving resources in the short term but harming both self and others in the long run. Through “abundance framing” and shared experience, it can turn into rational moderation and reciprocity.",
+    "keywords": "Stinginess expresses loss aversion and possessive bias; reciprocity and a sharing mindset promote balanced restraint.",
+    "example": "Owning many pens yet refusing to lend even one to a classmate, leading to a cooling relationship, reflects Stinginess.",
+    "source": "definition_workbook"
+  },
+  "无惭": {
+    "english_term": "Lack of remorse",
+    "buddhist_explanation": "Feeling no shame for wrongdoing, lacking inner restraint.",
+    "psychological_interpretation": "Lack of remorse is the failure of the internal moral brake, when behavior no longer aligns with values. It increases the likelihood of misconduct and dulls guilt-based learning; rebuilding moral education and role-model supervision can restore internal regulation.",
+    "keywords": "A moral gap marked by loss of responsibility requires value reconstruction and positive role modeling.",
+    "example": "Lying or cheating without feeling uneasy manifests Lack of remorse.",
+    "source": "definition_workbook"
+  },
+  "无愧": {
+    "english_term": "Lack of shame",
+    "buddhist_explanation": "Ignoring others’ judgment, losing outer restraint.",
+    "psychological_interpretation": "Lack of shame manifests as numbness to reputation and relational consequences, often accompanied by antisocial tendencies. It weakens corrective social feedback; establishing clear boundaries, consequences, and reinforcement of positive behavior is essential.",
+    "keywords": "Loss of external constraint leads to antisocial tendencies; cultivating consequence awareness and behavioral contracts rebuilds accountability.",
+    "example": "Repeatedly crossing moral lines and remaining indifferent to others’ judgment exemplifies Lack of shame.",
+    "source": "definition_workbook"
+  },
+  "不信": {
+    "english_term": "Lack of faith",
+    "buddhist_explanation": "Lacking faith in goodness and truth.",
+    "psychological_interpretation": "Lack of faith is a general posture of skepticism and cynicism, lowering willingness to cooperate and openness to learning. Moderate doubt supports inquiry, but pervasive denial impoverishes relationships; distinguishing rational scrutiny from cynicism is crucial.",
+    "keywords": "Cynicism combines distrust with excessive skepticism, reducing openness to learning; balancing inquiry with faith in collaboration is key.",
+    "example": "Rejecting every new idea proposed by teammates and impeding collaboration demonstrates Lack of faith.",
+    "source": "definition_workbook"
+  },
+  "懈怠": {
+    "english_term": "Laziness",
+    "buddhist_explanation": "Lack of motivation leads to procrastination and negligence.",
+    "psychological_interpretation": "Laziness is the combination of low activation and low expectations, avoiding pressure in the short term while accumulating problems in the long term. Using micro-tasks, initiation rituals, and social commitment can restart motivation loops and gradually restore vitality.",
+    "keywords": "Procrastination results from low activation and avoidance; micro-habits, initiation rituals, and commitment devices help restart momentum.",
+    "example": "Knowing the need to exercise but constantly postponing it until tomorrow, accumulating anxiety, represents Laziness.",
+    "source": "definition_workbook"
+  },
+  "放逸": {
+    "english_term": "Laxness",
+    "buddhist_explanation": "Acting according to desires without restraint.",
+    "psychological_interpretation": "Laxness appears as diminished inhibitory control and elevated reward-seeking tendencies, favoring short-term stimulation and high-risk experiences. Building environmental constraints, alternative rewards, and enhanced self-awareness are key strategies.",
+    "keywords": "Self-indulgence reflects diminished inhibition and increased risk-seeking; environmental design and alternative rewards restore balance.",
+    "example": "Staying up all night binge-watching shows and regretting it the next day exemplifies Laxness.",
+    "source": "definition_workbook"
+  },
+  "昏沉": {
+    "english_term": "Torpor",
+    "buddhist_explanation": "A body and mind that are stagnant, with diminished vitality.",
+    "psychological_interpretation": "Torpor is a state of low arousal and narrowed attention, often seen in sleep deprivation or depressive spectrums. It reduces learning and safety performance; improving sleep quality and physical activity can help recovery.",
+    "keywords": "Low arousal and narrow attention often stem from sleep debt or depressive states; physical activation improves alertness and function.",
+    "example": "Yawning repeatedly and struggling to stay alert in a meeting illustrates Torpor.",
+    "source": "definition_workbook"
+  },
+  "掉举": {
+    "english_term": "Restlessness",
+    "buddhist_explanation": "A mind that floats upward and is difficult to remain settled.",
+    "psychological_interpretation": "Restlessness is a mix of high arousal and agitation, with attention constantly jumping and task-switching costs increasing. Extending breathing, focusing on single tasks, and grounding techniques can reduce hypervigilance.",
+    "keywords": "Agitation combines hyperarousal and frequent task-switching; grounding techniques and single-task focus reduce restlessness.",
+    "example": "Feeling restless and frequently switching questions before an exam typifies Restlessness.",
+    "source": "definition_workbook"
+  },
+  "失念": {
+    "english_term": "Distraction",
+    "buddhist_explanation": "Failing to remember what should be remembered causes the goal to be lost.",
+    "psychological_interpretation": "Distraction commonly occurs under divided attention and multitasking pressure, where prospective memory fails and critical steps are missed. Creating external reminders and contextual cues can significantly reduce errors.",
+    "keywords": "Failure of prospective memory leads to attentional lapses during multitasking; external reminders and contextual cues help reduce errors.",
+    "example": "Forgetting to bring keys when going out or to check whether an email was already sent exemplifies Distraction.",
+    "source": "definition_workbook"
+  },
+  "不正知": {
+    "english_term": "Improper knowledge",
+    "buddhist_explanation": "Lack of clear awareness results in improper choices.",
+    "psychological_interpretation": "Improper knowledge is when perception and meaning attribution become distorted in the moment, leading to misreading situations and misjudging intentions. Training present-moment awareness and fact-checking can correct it.",
+    "keywords": "Lack of awareness results in misreading situations and assigning distorted meanings; fact-checking and mindfulness restore accuracy.",
+    "example": "Interpreting another’s silence as hostility only to learn later they were unwell reflects Improper knowledge.",
+    "source": "definition_workbook"
+  },
+  "散乱": {
+    "english_term": "Scatteredness",
+    "buddhist_explanation": "A restless mind cannot remain focused.",
+    "psychological_interpretation": "Scatteredness reflects widespread leakage of attention and insufficient continuity, where excessive inflow of information prevents integration. Reducing distractions, working in segments, and setting clear subgoals can greatly improve focus.",
+    "keywords": "Scattered attention and excessive cognitive load cause mental wandering; segmented work and clear subgoals improve sustained focus.",
+    "example": "Writing while simultaneously messaging and browsing news, resulting in poor efficiency, demonstrates Scatteredness.",
+    "source": "definition_workbook"
+  },
+  "悔": {
+    "english_term": "Regret",
+    "buddhist_explanation": "Regret arises afterward, giving rise to remorse.",
+    "psychological_interpretation": "Regret is the self-evaluative response to one’s past behavior, generating remorse and motivation to repair. In moderation it drives apology and correction, but in excess it turns into rumination and self-blame loops; defining responsibility and taking concrete reparative action are necessary.",
+    "keywords": "Regret involves rumination and self-blame while motivating repair and corrective action.",
+    "example": "Apologizing sincerely and offering compensation after speaking harshly exemplifies the constructive aspect of Regret.",
+    "source": "definition_workbook"
+  }
+}
